@@ -19,6 +19,10 @@ This is an academic project of designing a for working cpu with necessary compon
 -> Immidiate mode  
 -> Jump operations: JZ, JMP.
 
+## Authors
+
+- [@Toriqul Islam Tonu](https://www.github.com/toriqultonu)
+
 
 ## Screenshots
 
@@ -32,9 +36,4 @@ This is an academic project of designing a for working cpu with necessary compon
 ![App Screenshot](https://raw.githubusercontent.com/toriqultonu/Computer-Architecture-CSE-3203/main/ScreenShots/ROR%206bit.png)
 ![App Screenshot](https://raw.githubusercontent.com/toriqultonu/Computer-Architecture-CSE-3203/main/ScreenShots/CU%206bit.png)
 ![App Screenshot](https://raw.githubusercontent.com/toriqultonu/Computer-Architecture-CSE-3203/main/ScreenShots/Program%20Counter%203bit.png)
-
-
-## Authors
-
-- [@Toriqul Islam Tonu](https://www.github.com/toriqultonu)
 
